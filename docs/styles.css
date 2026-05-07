@@ -85,7 +85,7 @@ a:hover { text-decoration-thickness: 2px; }
   font-size: 15px;
   letter-spacing: .04em;
   text-transform: uppercase;
-  color: var(--ink-faint);
+  color: var(--warm-rule);
   margin: 0 0 24px;
 }
 
@@ -201,7 +201,7 @@ section > .head .sub {
   color: var(--ink-faint);
   padding-top: 2px;
 }
-.alert.warn .label { color: #b04a1f; }
+.alert.warn .label { color: var(--warm); }
 @media (max-width: 520px) {
   .alert { grid-template-columns: 1fr; gap: 4px; }
 }
@@ -327,6 +327,24 @@ section > .head .sub {
 }
 .block.warm + .block { border-top-color: var(--rule); }
 .block.warm .time { color: var(--warm); }
+
+/* ——— Cost + address line under event titles ——— */
+.cost-line {
+  margin: 4px 0 8px;
+  font-size: 12px;
+  color: var(--ink-faint);
+  letter-spacing: .02em;
+  font-variant-numeric: tabular-nums;
+}
+.cost-line .cost {
+  color: var(--ink-soft);
+  letter-spacing: .04em;
+}
+.cost-line a {
+  color: var(--ink-soft);
+  text-decoration: none;
+}
+.cost-line a:hover { text-decoration: underline; }
 .block .time {
   font-size: 11px;
   letter-spacing: .08em;

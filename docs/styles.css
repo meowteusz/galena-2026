@@ -369,6 +369,11 @@ section > .head .sub {
 }
 .block ul { margin: 6px 0; padding-left: 18px; color: var(--ink-soft); font-size: 14px; }
 .block li { margin-bottom: 3px; }
+.block p.menu {
+  color: var(--ink-faint);
+  font-size: 13px;
+  line-height: 1.5;
+}
 .block strong { color: var(--ink); font-weight: 600; }
 @media (max-width: 560px) {
   .day-head { grid-template-columns: 1fr; gap: 6px; }

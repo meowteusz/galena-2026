@@ -50,7 +50,7 @@ Claudia bringing: vanilla, cinnamon, dairy-free milk.
 
 Yogurt topping: use leftover Sat blueberries/bananas + maple syrup on hand.
 
-### Lunch — coconut red curry (Will/Oskar leading, Mae Ploy recipe scaled ~6.7×)
+### Lunch — coconut red curry (Mateusz/Will leading, Mae Ploy recipe scaled ~6.7×)
 
 **Sauce (dutch oven):**
 - Mae Ploy red curry paste · ~225g (~3/4 of a 14oz tub) — medium spice

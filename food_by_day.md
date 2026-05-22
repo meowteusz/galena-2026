@@ -88,6 +88,7 @@ Yogurt topping: use leftover Sat blueberries/bananas + maple syrup on hand.
 - Corn on the cob · ~20 ears (Oskar eats 7–8 lol)
 - Butter (already on general — confirm)
 - Fajita veg · 4–5 bell peppers + **6–7 large onions** (covers fajita, burger topping, hot dog topping)
+- Grilled portobello mushrooms · 1 big Costco pack
 - Coleslaw · 1 big tub (prepped container)
 - Caesar · romaine heart multi-pack + dressing (no croutons/parm, keeping lean)
 - Oskar bringing from home: pumpkin seeds + craisins (caesar)

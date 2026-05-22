@@ -27,6 +27,7 @@
 - All-beef hot dogs · 1 pack
 - Pickles · 1 big jar
 - Corn on the cob · ~20 ears
+- Portobello mushrooms · 1 big pack
 - Coleslaw · 1 giga tub or more smaller ones
 - Romaine heart multi-pack
 - Caesar dressing

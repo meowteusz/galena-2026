@@ -22,7 +22,7 @@
 - [x] Coconut milk · 6 cans
 - [x] Chicken breast · 3–4 lb
 - [x] Extra-firm tofu · 1x 4-pack
-- [x] Beef burger patties · 16–18 (howevr many in the roll)
+- [x] Beef burger patties · 16–18 (however many in the roll)
 - [x] Beyond/Impossible patties · 1 pack
 - [x] All-beef hot dogs · 1 pack
 - [x] Pickles · 1 big jar

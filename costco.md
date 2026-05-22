@@ -1,0 +1,41 @@
+# Costco
+
+- Cheese pizza · 4-pack
+- Supreme cauliflower pizza · 2-pack
+- Boneless wings or nuggets · 7–8 lb
+- Spring rolls · 1 pack (Oskar's pick)
+- Bibigo potstickers · 1 pack
+- Beer / high noons / mixers
+- Schwartz Brothers croissant loaf · 1 unit (2× 15oz)
+- Eggs · 30-pack (scrambled) + 18-pack (french toast + buffer)
+- Milk · 1L or Fairlife
+- Maple syrup
+- Costco precooked bacon · 3 boxes (swap 1 for spiral/boneless ham if available)
+- OJ
+- Ground coffee
+- Coffee creamer
+- Egg bites · ~3 packs (2-3 per person) OR quiches (2ish slice per person?)
+- Frozen waffles · Eggo (~3 boxes) OR Kodiak (~4–5 boxes) — gametime. 2-3 waffles per person
+- Vanilla yogurt · 1 giga tub
+- Granola · 1 big bag
+- Danishes pack
+- Coconut milk · 6 cans
+- Chicken breast · 3–4 lb
+- Extra-firm tofu · 1x 4-pack
+- Beef burger patties · 16–18 (howevr many in the roll)
+- Beyond/Impossible patties · 1 pack
+- All-beef hot dogs · 1 pack
+- Pickles · 1 big jar
+- Corn on the cob · ~20 ears
+- Coleslaw · 1 giga tub or more smaller ones
+- Romaine heart multi-pack
+- Caesar dressing
+- Graham crackers
+- Hershey's chocolate bars · ~16–20
+- Jumbo marshmallows · 1 bag
+- Butter
+- Heavy-duty foil
+- Condiment 3-pack — verify mayo is included
+- Popcorn · 2 big bags
+- Kettle chips · 1 big bag
+- Something sweet · gametime
